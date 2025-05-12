@@ -10,6 +10,8 @@ This project animates the orbital positions of the planets in our Solar System u
 
 ![Solar System Animation Preview](https://github.com/MonteiroOscar98/Solar-System-Animation/blob/main/plot1.png?raw=true)
 
+![Solar System Animation GIF](https://github.com/MonteiroOscar98/Solar-System-Animation/blob/main/plot2.gif?raw=true)
+
 🎥 [Click here to download the full MP4 animation](https://github.com/MonteiroOscar98/Solar-System-Animation/raw/main/plot2.mp4)
 
 📓 [View the Jupyter Notebook on GitHub](https://github.com/MonteiroOscar98/Solar-System-Animation/blob/main/Solar_System_Position.ipynb)
