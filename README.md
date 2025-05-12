@@ -8,8 +8,7 @@ This project animates the orbital positions of the planets in our Solar System u
 
 ## 📽️ Preview
 
-<!-- Optionally include a GIF or video link -->
-
+[Click here to watch the animation (MP4)](https://github.com/MonteiroOscar98/Solar-System-Animation/raw/main/plot2.mp4)
 ---
 
 ## 🚀 Features
